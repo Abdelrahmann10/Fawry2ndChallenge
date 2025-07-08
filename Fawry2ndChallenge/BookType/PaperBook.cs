@@ -26,7 +26,7 @@ namespace Fawry2ndChallenge.BookType
                 Console.WriteLine("Not enough stock");
             Stock -= quantity;
             decimal Total = quantity * Price;
-            Console.WriteLine($"The PaperBook '{Title}' bought for {Total}$ ");
+            Console.WriteLine($"The PaperBook '{Title}' bought for {Total}$");
             Console.WriteLine($"Sending to Address : {address}");
             return Total;
         }
