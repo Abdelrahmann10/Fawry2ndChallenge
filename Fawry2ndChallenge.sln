@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fawry2ndChallenge", "Fawry2ndChallenge\Fawry2ndChallenge.csproj", "{6ED5BBCC-BB4F-4217-AEA9-58BB9D011E04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED5BBCC-BB4F-4217-AEA9-58BB9D011E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED5BBCC-BB4F-4217-AEA9-58BB9D011E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED5BBCC-BB4F-4217-AEA9-58BB9D011E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED5BBCC-BB4F-4217-AEA9-58BB9D011E04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8614D31F-52B6-4FEA-9DF5-8052F811D02C}
+	EndGlobalSection
+EndGlobal
