@@ -15,7 +15,7 @@ namespace Fawry2ndChallenge
             inventory.AddBook(B01);
             inventory.AddBook(B02);
             inventory.AddBook(B03);
-
+         
             Console.WriteLine("--------------------");
             inventory.RemoveOutDatedBooks(10);
 
